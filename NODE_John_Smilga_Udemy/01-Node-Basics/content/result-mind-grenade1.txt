@@ -1,0 +1,1 @@
+RESULT: first txt <><><> second txt

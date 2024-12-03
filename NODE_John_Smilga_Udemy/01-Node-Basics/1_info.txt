@@ -1,0 +1,16 @@
+What is nodejs?
+
+- environment to run JS outside browser
+- build on Chrome's V8 JS engine
+- big community
+- full-stake
+
+
+  Browser       v/s       Node.JS
+
+DOM                        No DOM
+Window                     No Window
+Interactive Apps           Server side Apps
+No Filesystem              Filesystem
+Fragmentation              Versions
+ES6 Modules                CommonJS
